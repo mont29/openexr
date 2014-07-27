@@ -6,9 +6,7 @@ ADD_EXECUTABLE ( IlmImfFuzzTest
   testFuzzDeepTiles.cpp
   testFuzzDeepScanLines.cpp
   testFuzzScanLines.cpp
-  testFuzzDeepScanLines.cpp
   testFuzzTiles.cpp
-  testFuzzDeepTiles.cpp
   )
 
 TARGET_LINK_LIBRARIES ( IlmImfFuzzTest 

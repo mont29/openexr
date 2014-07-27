@@ -173,8 +173,6 @@ INSTALL ( TARGETS
 # Headers
 INSTALL ( FILES
   ImfForward.h
-  ImfNamespace.h
-  ImfPartHelper.h
   ImfExport.h
   ImfAttribute.h
   ImfBoxAttribute.h
